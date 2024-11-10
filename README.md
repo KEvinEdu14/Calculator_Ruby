@@ -1,10 +1,10 @@
-# Ruby Calculator Docker Project
+# Local Time Ruby Docker Project
 
-This project is a simple Ruby-based calculator that performs basic arithmetic operations (+, -, *, /) with user input. The application is containerized using Docker, making it easy to run in any environment.
+This project demonstrates a simple Ruby application that displays the local time, containerized using Docker. The container runs a Ruby script that outputs the current local time to the console.
 
 ## Files
 
-- `calculator.rb`: Ruby script that prompts the user for two numbers and an operator, then calculates and prints the result.
+- `time.rb`: Ruby script that displays the local time.
 - `Dockerfile`: Docker configuration file to build and run the application.
 
 ## Prerequisites

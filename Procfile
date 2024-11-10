@@ -1,1 +1,1 @@
-worker: ruby calculator.rb
+worker: ruby time.rb

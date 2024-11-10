@@ -1,0 +1,1 @@
+puts "La hora local es: #{Time.now.strftime("%H:%M:%S")}"

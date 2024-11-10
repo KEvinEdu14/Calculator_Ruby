@@ -2,4 +2,4 @@
 FROM ruby:3.0
 WORKDIR /app
 COPY calculator.rb .
-CMD ["ruby", "calculator.rb"]
+CMD ["ruby", "time.rb"]
