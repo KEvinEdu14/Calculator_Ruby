@@ -26,7 +26,7 @@ docker build -t kevineduardo14/time .
 docker run kevineduardo14/time
 ~~~
 
-##Login the Docker Hub
+## Login the Docker Hub
 ~~~
 docker login
 ~~~
